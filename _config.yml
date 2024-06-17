@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.png"
   name             : "Tieying Zhang"
   pronouns         : # example: "she/her"  
   bio              : "I am particularly interested in providing practical implementations that are deployable in the real world with strong theoretical foundations."
