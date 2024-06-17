@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Tieying Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am particularly interested in providing practical implementations that are deployable in the real world with strong theoretical foundations."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
