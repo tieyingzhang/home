@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Tieying Zhang's Home Page"
-title_separator          : "-"Michael-Tieying-Zhang
+title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://tieyingzhang.github.io/home/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
