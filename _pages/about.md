@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am a research scientist and manager at Bytedance US lab. Before joining Bytedance, I was a research scientist and manager at Alibaba DAMO Academy. Before that I was a postdoc in the [Computer Science Department (Database Group)](https://db.cs.cmu.edu/) at Carnegie Mellon University, working with Prof. Andy Pavlo and Anthony Tomasic, on AI-powered database systems. Prior to coming to CMU, I was an assistant professor at Chinese Academy of Sciences. 
 
 My areas of research are Database Management Systems, Distributed Systems, AI for Systems and Systems for AI. I am particularly interested in providing practical implementations that are deployable in the real world with strong theoretical foundations.
