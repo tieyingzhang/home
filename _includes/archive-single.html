@@ -39,11 +39,11 @@
     {% endif %}
 
     {% if post.venue %}
-      <p> <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      <p> <i>{{ post.venue }}</i>, {{ post.date | default: "2022" | date: "%Y" }} </p>
     {% endif %}
 
-    {% if post.citation %}
-      <p> {{ post.citation }} </p>
+    {% if post.authors %}
+      <p> {{ post.authors }} </p>
     {% endif %}
 
   </article>
