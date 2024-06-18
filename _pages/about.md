@@ -14,18 +14,6 @@ PC member: ICDM 2024(Area Chair), ATC 2024, ICDE 2024, VLDB 2024, ICDE 2023, ICD
 
 <font color=red> News: </font>
 
-- Our paper "Resource Allocation with Service Affinity in Large-Scale Cloud Environments" is accepted by ICDE 2024.
-
-- Our paper "VMR2L: Virtual Machines Rescheduling Using Reinforcement Learning in Data Centers" is accepted by ML for Systems Workshop at NeurIPS 2023. 
-
-- Our paper "COOOL: A Learning-To-Rank Approach for SQL Hint Recommendations" is accepted by AIDB Workshop at VLDB 2023.
-
-- Our paper "IPOC: An Adaptive Interval Prediction Model based on Online Chasing and Conformal Inference for Large-Scale Systems" is accepted by KDD 2023.
-
-- Our paper "SUFS: A Generic Storage Usage Forecasting Service Through Adaptive Ensemble Learning" is accpeted by ICDE 2023.
-
-- Our paper "SAM: Database Generation from Query Workload with Supervised Autoregressive Model" is accepted by SIGMOD'22.
-
-- Our paper "ResTune: Resource Oriented Tuning Boosted by Meta-Learning for Cloud Databases" is accepted by SIGMOD'21.
+- I am working on ByteBrain, which is the AI for Infra (AI for System) platform of Bytedance.
 
 - My open source project Domino is the core component of HP's DBMS Trafodion (now Apache Trafodion). Domino is a transaction processing engine, that utilizes HBase's multi-version to handle distributed transactions.
