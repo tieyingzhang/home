@@ -38,7 +38,6 @@ author:
   semantic         : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #researchgate     : # URL
-  zhihu            : "https://www.zhihu.com/people/zhangtieying"
 
   # Repositories and software development
   #bitbucket        : # Username - Update with your username on the site
@@ -58,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : tieying-zhang-1a654a26
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -72,7 +71,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # URL
+  zhihu            : zhangtieying
 
 
 # Site Settings
