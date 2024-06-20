@@ -16,4 +16,4 @@ PC member: ICDM 2024 (Area Chair), ATC 2024, ICDE 2024 (industry), VLDB 2024, IC
 
 - I am working on ByteBrain, which is the AI for Infra (AI for System) platform of Bytedance.
 
-- My open source project Domino is the core component of HP's DBMS Trafodion (now Apache Trafodion). Domino is a transaction processing engine, that utilizes HBase's multi-version to handle distributed transactions.
+- My open source project [Domino](https://github.com/domino-succ/domino/wiki) becomes the core component of HP's DBMS [Trafodion](https://attic.apache.org/projects/trafodion.html) (now Attic). Domino is a transaction processing engine, that utilizes HBase's multi-version to handle distributed transactions.
