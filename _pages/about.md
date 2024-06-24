@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research scientist and manager at Bytedance US lab. Before joining Bytedance, I was a research scientist and manager at Alibaba DAMO Academy. Before that I was a postdoc in the [Computer Science Department (Database Group)](https://db.cs.cmu.edu/) at Carnegie Mellon University, working with Prof. [Andy Pavlo](https://www.cs.cmu.edu/~pavlo/) and [Anthony Tomasic](https://www.cs.cmu.edu/~tomasic/), on AI-powered database systems. Prior to coming to CMU, I was an assistant professor at Chinese Academy of Sciences. My areas of research are AI for Systems and Systems for AI.
+I am a research scientist and manager at Bytedance US lab. Before joining Bytedance, I was a research scientist and manager at Alibaba DAMO Academy. Before that I was a postdoc in the [Computer Science Department (Database Group)](https://db.cs.cmu.edu/) at Carnegie Mellon University, working with Prof. [Andy Pavlo](https://www.cs.cmu.edu/~pavlo/) and [Anthony Tomasic](https://www.cs.cmu.edu/~tomasic/), on AI-powered database systems. Prior to coming to CMU, I was an assistant professor at Chinese Academy of Sciences. My areas of research are [AI for Systems and Systems for AI](https://rise.cs.berkeley.edu/course/cs294-ai-for-systems-and-systems-for-ai-ai-sys/).
 
 **Academic and Industry Services:**
 
