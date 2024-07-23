@@ -22,7 +22,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "profile_pic.png"
-  name             : "Tieying Zhang"
+  name             : "Tieying Zhang (张铁赢)"
   pronouns         : # example: "she/her"  
   bio              : "AI for System & System for AI"
   #location         : "Earth"
