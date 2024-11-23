@@ -11,7 +11,7 @@ I am a research scientist and manager at Bytedance US lab. Before joining Byteda
 **Academic and Industry Services:**
 
 <small>
-PC member: ICDE 2025 (industry), ATC 2025, ICDM 2024 (Area Chair), ATC 2024, ICDE 2024 (industry), VLDB 2024, ICDE 2023 (industry), ICDM 2023 (Area Chair), ICDE 2022, VLDB 2021 (industry), ICDE 2021, ...
+PC member: FSE'25 (industry), ICDE'25 (industry), ATC'25, ICDM'24 (Area Chair), ATC'24, ICDE'24 (industry), VLDB'24, ICDE'23 (industry), ICDM'23 (Area Chair), ICDE'22, VLDB'21 (industry), ICDE'21, ...
 </small>
 
 <strong><font color=red> News: </font><strong>
