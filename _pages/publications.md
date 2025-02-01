@@ -7,7 +7,7 @@ author_profile: true
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">
-    <p>You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>. <br>Star (*) indicates that the work was conducted by interns under my supervision, or that I am the corresponding author. </p>
+    <p>You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>. <br>Star (*) indicates that the work was conducted by my interns, or that I am the corresponding author. </p>
   </div>
 {% endif %}
 
