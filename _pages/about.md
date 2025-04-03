@@ -18,6 +18,6 @@ PC member: FSE'25 (industry), ICDE'25 (industry), ATC'25, ICDM'24 (Area Chair), 
 
 - I am working on [ByteBrain](https://jobs.bytedance.com/en/position/7366737450800023859/detail?utm_source=Technology+Crossover+Ventures+job+board&utm_medium=getro.com&gh_src=Technology+Crossover+Ventures+job+board), which serves as Bytedance's AI for Infra (AI for System) platform.
 
-- Our MySQL Virtual Index, [VIDEX]([https://github.com/domino-succ/domino/wiki](https://github.com/bytedance/videx/blob/main/README.md)) , is now open-source!
+- Our MySQL Virtual Index, [VIDEX](https://github.com/bytedance/videx/blob/main/README.md) , is now open-source!
 
 - Our open source project [Domino](https://github.com/domino-succ/domino/wiki) becomes the core component of HP's DBMS [Trafodion](https://attic.apache.org/projects/trafodion.html) (now Attic). Domino is a transaction processing engine, that utilizes HBase's multi-version to handle distributed transactions.
