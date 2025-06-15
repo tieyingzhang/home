@@ -16,7 +16,7 @@ PC member: FSE'25 (industry), ICDE'25 (industry), ATC'25, ICDM'24 (Area Chair), 
 
 <strong><font color=red> News: </font><strong>
 
-- I am working on [ByteBrain](https://jobs.bytedance.com/en/position/7366737450800023859/detail?utm_source=Technology+Crossover+Ventures+job+board&utm_medium=getro.com&gh_src=Technology+Crossover+Ventures+job+board), which serves as Bytedance's AI for Infra (AI for System) platform.
+- I am working on [ByteBrain](https://jobs.bytedance.com/en/position/7501887881750038791/detail), which serves as Bytedance's AI for Infra (AI for System) platform.
 
 - Our MySQL Virtual Index, [VIDEX](https://github.com/bytedance/videx/blob/main/README.md) , is now open-source!
 
