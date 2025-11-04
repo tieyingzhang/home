@@ -11,7 +11,7 @@ I am a Research Scientist and Director at Bytedance US lab. Before joining Byted
 **Academic and Industry Services:**
 
 <small>
-PC member: FSE'25 (industry), ICDE'25 (industry), ATC'25, ICDM'24 (Area Chair), ATC'24, ICDE'24 (industry), VLDB'24, ICDE'23 (industry), ICDM'23 (Area Chair), ICDE'22, VLDB'21 (industry), ICDE'21, ...
+PC member: SIGMOD'26 (industry), ICDE'26 (industry), FSE'25 (industry), ICDE'25 (industry), ATC'25, ICDM'24 (Area Chair), ATC'24, ICDE'24 (industry), VLDB'24, ICDE'23 (industry), ICDM'23 (Area Chair), ICDE'22, VLDB'21 (industry), ICDE'21, ...
 </small>
 
 <strong><font color=red> News: </font><strong>
