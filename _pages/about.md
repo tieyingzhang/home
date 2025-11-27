@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me 张铁赢"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
