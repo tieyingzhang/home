@@ -16,7 +16,7 @@ PC member: SIGMOD'27, ICDE'27, SIGMOD'26 (industry), VLDB'26, ICDE'26 (industry)
 
 <strong><font color=red> News: </font><strong>
 
-- I am working on [ByteBrain](https://jobs.bytedance.com/en/position/7501887881750038791/detail), which serves as Bytedance's AI for Infra (AI for System) platform.
+- I lead [ByteBrain](https://jobs.bytedance.com/en/position/7501887881750038791/detail), which serves as Bytedance's AI for Infra (AI for System) platform.
 
 - Our MySQL Virtual Index, [VIDEX](https://github.com/bytedance/videx/blob/main/README.md) , is now open-source!
 
